@@ -1,0 +1,7 @@
+{
+  "name": "simple-gas-fee-tracker",
+  "version": "1.0.0",
+  "description": "Beginner gas fee tracker project",
+  "main": "app.js",
+  "license": "MIT"
+}
